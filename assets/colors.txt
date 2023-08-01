@@ -1,0 +1,14 @@
+Colors used in Hex
+
+Eerie Black: #18181B
+Platinum: #DFDFDF
+Kelly green: #3EB72C
+White: #FFFFFF
+Alice Blue: #F0F8FF
+
+TODO 
+
+Test New button in these Colors
+Tufts Blue: #228CDB
+Slate Blue: #6665DD
+Violet Blue: #3943B7
